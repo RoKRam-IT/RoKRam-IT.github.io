@@ -32,7 +32,7 @@
     - ServiveNow
   - SIEM
     - Elastic
-  
-  - Tenable
+  - Vulnerability Scanner
+    - Tenable
     
     
