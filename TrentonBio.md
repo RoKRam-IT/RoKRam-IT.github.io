@@ -4,5 +4,4 @@ Trenton is a Cybersecurity professional with a focus in Development Security (De
 
 ## Socials
 [GitHub](https://github.com/chramostatm)
-[LinkedIn](https://www.linkedin.com/in/trenton-chramosta-50642b1b0/)
 
