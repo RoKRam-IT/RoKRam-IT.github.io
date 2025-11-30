@@ -1,5 +1,5 @@
 # Trenton Chramosta
-##About Trenton
+## About Trenton
 Trenton is a Cybersecurity professional with a focus in Development Security (DevSec) and Cloud Security (CloudSec).
 
 ## Socials
